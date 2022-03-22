@@ -1,0 +1,7 @@
+.Level {
+    text-align: center;
+    background-color: aqua;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 40px;
+}

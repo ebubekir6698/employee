@@ -1,0 +1,10 @@
+.Employee{
+    display: inline-block;
+    background-color: #fff;
+    border: 5px solid red;
+    padding: 0 5px;
+}
+
+h4, h5{
+    margin: 5px 0;
+}
